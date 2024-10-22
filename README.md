@@ -1,3 +1,3 @@
 # Understanding-git
 
-This is a project to try to understand git. 
+This is a project to try to understand git. Thank you.
